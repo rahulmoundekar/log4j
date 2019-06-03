@@ -3,6 +3,7 @@ package com.log.app.client;
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 
+
 public class Test {
 
 	// create logger class instance
